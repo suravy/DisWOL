@@ -6,4 +6,8 @@
 - Python3
 - Linux "wakeonlan" package
 - Computer mac adress
+- Discord bot with token
 
+Edit mac address and discord token in bot.py
+
+python3 bot.py
