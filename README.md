@@ -1,4 +1,9 @@
 <h1 align="center">DisWOL</h1>
-<h1 align="center">Wake on lan computer throught Discord</h1>
+<h3 align="center">Wake on lan computer throught Discord</h3>
 
-# Requirements:
+# Requirements
+- Computer with wake on lan up
+- Python3
+- Linux "wakeonlan" package
+- Computer mac adress
+
